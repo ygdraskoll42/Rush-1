@@ -6,7 +6,7 @@
 /*   By: pquintin <pquintin@learner.42.tech>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/07/04 14:04:31 by pquintin          #+#    #+#             */
-/*   Updated: 2026/07/04 17:31:30 by pquintin         ###   ########.fr       */
+/*   Updated: 2026/07/04 18:31:47 by pquintin         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 #include <unistd.h>
@@ -16,6 +16,6 @@ void	rush(int x, int y);
 int	main(void)
 
 {
-	rush(5, 3);
+	rush(10, 10);
 	return (0);
 }
